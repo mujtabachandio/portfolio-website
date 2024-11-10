@@ -6,7 +6,7 @@ import Link from 'next/link';
 export default function HomePage() {
   return (
     <>
-    <main className="h-screen overflow-hidden">
+    <main className="h-screen ">
       <div className="min-h-screen bg-[#171717] flex items-center justify-center px-4">
         <div className="container mx-auto flex flex-col md:flex-row items-center justify-center gap-12">
           

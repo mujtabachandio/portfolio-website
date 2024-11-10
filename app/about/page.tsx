@@ -7,7 +7,7 @@ const about = () => {
   return (
     <>
     {/* About Section */}
-    <section className="h-screen overflow-hidden pt-20 pb-12 lg:pt-[120px] lg:pb-[90px] bg-[#171717]">
+    <section className="h-screen pt-20 pb-12 lg:pt-[120px] lg:pb-[90px] bg-[#171717]">
       <div className="container mx-auto">
         <div className="flex flex-wrap items-center justify-between -mx-4">
 
